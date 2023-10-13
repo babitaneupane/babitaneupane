@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @babitaneupane
+- 👀 I’m interested in frontend web development 
+- 🌱 I’m currently learning web development and python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me babitaneupane077@gmail.com
+
+<!---
+babitaneupane/babitaneupane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
