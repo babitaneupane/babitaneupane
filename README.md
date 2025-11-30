@@ -1,56 +1,58 @@
-<h1 align="center">Hi there, I'm Babita Neupane 👋</h1>
+<h1 align="center">👋 Hi, I'm Babita Neupane</h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/3pAs.gif" width="250"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
 
 ---
 
-### 👀 About Me  
-- 🎨 Passionate about **Frontend Web Development**  
-- 📚 Currently learning **Web Development**, **Python**, and **QA Engineering**  
-- 🚀 Exploring new ways to build clean, modern, and user-friendly interfaces  
-- 💡 Always curious and eager to grow through real-world projects  
+## 👩‍💻 About Me  
+- Frontend development enthusiast  
+- Currently learning **Web Development**, **React**, **Python**, and **QA Engineering**  
+- Focused on creating clean, responsive, and user-friendly interfaces  
+- Passionate about continuous learning and real-world problem solving  
 
 ---
 
-### 🔧 Skills & Tools  
+## 🛠️ Skills & Tools  
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/QA%20Testing-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white"/>
 </p>
 
 ---
 
-### ✨ GitHub Stats  
+## 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babitaneupane&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=babitaneupane&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babitaneupane&theme=react" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=babitaneupane&show_icons=true&theme=react" width="48%"/>
 </p>
 
 ---
 
-### 🌱 Currently Working On  
-- Improving frontend skills with real projects  
-- Strengthening Python fundamentals  
-- Learning QA testing tools and automation concepts  
+## 🚀 Currently Focusing On  
+- Strengthening frontend concepts with React  
+- Building small projects to enhance coding skills  
+- Learning QA testing workflow and automation basics  
+- Improving Python logic and problem-solving  
 
 ---
 
-### 🌐 Connect With Me  
+## 🌍 Connect With Me  
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/babitaneupane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/babitaneupane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="200"/>
-  <br>
-  <b>Thanks for visiting my profile! 💙</b>
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="180"/>
+  <br/>
+  <b>Thanks for stopping by!</b>
 </p>
