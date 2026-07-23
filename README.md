@@ -44,7 +44,8 @@
 
 ## 🌍 Connect With Me  
 <p align="left">
-  <a href="https://babitaneupane.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://babitaneupane.com.np/"><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/759ac62c-7f49-485b-94ee-61d0031a0db0" />
+e"/></a>
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/babitaneupane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
