@@ -42,13 +42,29 @@
 
 ---
 
-## 🌍 Connect With Me
 
-🔗 [Portfolio](www.babitaneupane.com)
 
-💼 [LinkedIn](https://www.linkedin.com/in/babita-neupane-a0248a275/)
+## 🌐 Let's Connect
 
-🐙 [GitHub](https://github.com/babitaneupane)
+<p align="center">
+
+<a href="https://www.babitaneupane.com">
+  <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_My_Website-2563EB?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/babita-neupane-a0248a275/">
+  <img src="https://img.shields.io/badge/LinkedIn-Babita_Neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/babitaneupane">
+  <img src="https://img.shields.io/badge/GitHub-babitaneupane-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+⭐ Feel free to explore my projects, connect professionally, or check out my portfolio!
+</p>
 
 
 
