@@ -49,7 +49,7 @@
 
 <p align="center">
 
-<a href="https://www.babitaneupane.com" target="_blank">
+<a href="https://www.babitaneupane.com.np" target="_blank">
 <img src="https://img.icons8.com/fluency/96/domain.png" height="55" alt="Portfolio"/>
 </a>
 
