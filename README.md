@@ -48,17 +48,19 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.babitaneupane.com">
-<img src="https://skillicons.dev/icons?i=web" height="55"/>
+
+<a href="https://www.babitaneupane.com" target="_blank">
+<img src="https://img.icons8.com/fluency/96/domain.png" height="55" alt="Portfolio"/>
 </a>
 
-<a href="https://www.linkedin.com/in/babita-neupane-a0248a275/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://www.linkedin.com/in/babita-neupane-a0248a275/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/babitaneupane">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<a href="https://github.com/babitaneupane" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
 </a>
+
 </p>
 
 
