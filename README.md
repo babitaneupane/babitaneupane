@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me  
 - Frontend development enthusiast  
-- Currently learning **Web Development**, **React**, **Python**, and **QA Engineering**  
+- Currently learning **Web Development**, **React**, **Python**,**Django**,**Next.js** and **QA Engineering**  
 - Focused on creating clean, responsive, and user-friendly interfaces  
 - Passionate about continuous learning and real-world problem solving  
 
