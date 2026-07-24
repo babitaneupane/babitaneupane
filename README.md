@@ -46,11 +46,11 @@
 
 🔗 [Portfolio](www.babitaneupane.com)
 
-💼 [LinkedIn](YOUR_LINKEDIN_LINK)
+💼 [LinkedIn](https://www.linkedin.com/in/babita-neupane-a0248a275/)
 
-🐙 [GitHub](YOUR_GITHUB_LINK)
+🐙 [GitHub](https://github.com/babitaneupane)
 
-📧 [Email](mailto:youremail@gmail.com)
+
 
 ---
 
